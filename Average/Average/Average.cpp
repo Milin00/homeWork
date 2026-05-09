@@ -5,24 +5,26 @@
 int main()
 {
 	srand(time(NULL));
-	int lang = rand()%101;
+	int japanese = rand()%101;
 	int math = rand() % 101;
 	int science = rand() % 101;
 	int society = rand() % 101;
 	int english = rand() % 101;
-	float avarage = float(lang + math + science + society + english) / 5;
-	if (avarage >= 60 && lang >= 40 && math >= 40 && science >= 40 && society >= 40 && english >= 40)
+	int total = japanese + math + science + society + english;
+	float avarage = float(total) / 5;
+	if (avarage >= 60 && japanese >= 40 && math >= 40 && science >= 40 && society >= 40 && english >= 40)
 	{
 		printf("合格\n");
-		printf("点数\n国語:%d\n数学:%d\n社会:%d\n理科:%d\n英語:%d\n", lang, math, science, society, english);
-		printf("平均点:%.1f", avarage);
+		printf("点数\n国語:%d\n数学:%d\n社会:%d\n理科:%d\n英語:%d\n", japanese, math, science, society, english);
+		printf("合計点:%d\n", total);
+		printf("平均点:%.1f\n", avarage);
 	}
 	else
 	{
 		printf("不合格\n");
-		if (lang < 40)
+		if (japanese < 40)
 		{
-			printf("国語の点数:%d\n", lang);
+			printf("国語の点数:%d\n", japanese);
 		}
 		if (math < 40)
 		{
@@ -40,6 +42,7 @@ int main()
 		{
 			printf("英語の点数:%d\n", english);
 		}
+		printf("合計点:%d\n", total);
 		printf("平均点:%.1f\n", avarage);
 	}
 }
