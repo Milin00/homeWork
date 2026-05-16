@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ktc\\Desktop\\A\\homeWork\\max\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C246E46F-95E5-462D-9439-92B91712B739}|max\\max.vcxproj|C:\\Users\\ktc\\Desktop\\A\\homeWork\\max\\max\\max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C246E46F-95E5-462D-9439-92B91712B739}|max\\max.vcxproj|solutionrelative:max\\max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "max.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\A\\homeWork\\max\\max\\max.cpp",
+              "RelativeDocumentMoniker": "max\\max.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\A\\homeWork\\max\\max\\max.cpp",
+              "RelativeToolTip": "max\\max.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-16T02:57:29.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
