@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ktc\\Desktop\\A\\homeWork\\charactor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6712678-8B2B-4621-9904-677AEB73BD76}|charactor\\charactor.vcxproj|C:\\Users\\ktc\\Desktop\\A\\homeWork\\charactor\\charactor\\charactor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6712678-8B2B-4621-9904-677AEB73BD76}|charactor\\charactor.vcxproj|solutionrelative:charactor\\charactor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "charactor.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\A\\homeWork\\charactor\\charactor\\charactor.cpp",
+              "RelativeDocumentMoniker": "charactor\\charactor.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\A\\homeWork\\charactor\\charactor\\charactor.cpp",
+              "RelativeToolTip": "charactor\\charactor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-16T06:01:31.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
